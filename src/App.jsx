@@ -2,11 +2,7 @@ import React from "react";
 import EtoroTradePanel from "./EtoroTradePanel";
 
 function App() {
-  return (
-    <div>
-      <EtoroTradePanel />
-    </div>
-  );
+  return <EtoroTradePanel />;
 }
 
 export default App;
